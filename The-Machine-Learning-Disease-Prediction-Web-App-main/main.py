@@ -5,15 +5,15 @@ from streamlit_option_menu import option_menu
 
 #loading the models
 
-diabetes = pickle.load(open("./models/diabetes_model.sav", "rb"))
+diabetes = pickle.load(open("models/diabetes_model.sav", "rb"))
 
-heart_disease = pickle.load(open("./models/heart_disease_model.sav", "rb"))
+heart_disease = pickle.load(open("models/heart_disease_model.sav", "rb"))
 
-parkinsons_disease = pickle.load(open("./models/parkinsons_disease_model.sav", "rb"))
+parkinsons_disease = pickle.load(open("models/parkinsons_disease_model.sav", "rb"))
 
-breast_cancer = pickle.load(open("./models/breast_cancer_model.sav", "rb"))
+breast_cancer = pickle.load(open("models/breast_cancer_model.sav", "rb"))
 
-lung_cancer = pickle.load(open("./models/lung_cancer_model.sav", "rb"))
+lung_cancer = pickle.load(open("models/lung_cancer_model.sav", "rb"))
 
 
 #sidebar for navigation
