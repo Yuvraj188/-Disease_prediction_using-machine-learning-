@@ -82,7 +82,7 @@ The future scope of the project includes:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the MIT License - see the [LICENSE.md](The-Machine-Learning-Disease-Prediction-Web-App-main/LICENSE) file for details.
 
 ---
 
